@@ -1,5 +1,5 @@
 # GwcNet
-This is the implementation of the paper Group-wise Correlation Stereo Network
+This is the implementation of the paper Group-wise Correlation Stereo Network which was presented in DRDO(CAIR) Bengaluru, India.
 # How to use
 ## Environment
 python 3.6
